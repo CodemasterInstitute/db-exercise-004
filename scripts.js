@@ -1,4 +1,11 @@
 function main() {
+	
+	// RESOURCES
+	// http://www.w3schools.com/js/js_htmldom_document.asp
+	// http://www.w3schools.com/js/js_htmldom_elements.asp
+	// http://www.w3schools.com/jsref/prop_html_classname.asp
+	// http://www.w3schools.com/js/js_htmldom_nodes.asp
+	// http://www.w3schools.com/js/js_dates.asp
     
     // Exercise #1
     // Change the body tag's style so it has a font-family of "Arial, sans-serif".
